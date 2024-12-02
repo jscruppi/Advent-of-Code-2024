@@ -1,10 +1,7 @@
 """
 
 Calculate the singularity score
-sim_score = num_left * num_right
-
--Seperate input into two maps
--Calculate map[x] * map2[x]
+Of the same list in part1
 
 """
 from collections import defaultdict
